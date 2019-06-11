@@ -38,3 +38,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### project
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  gem install bundler jekyll
+
+  jekyll new my-awesome-site
+
+  cd my-awesome-site
+
+  bundle exec jekyll serve
+
+# => Now browse to http://localhost:4000
