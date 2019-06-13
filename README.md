@@ -9,6 +9,8 @@
 
 1.用Keras做Mnist手写数字的分类
 
+2.Tensor基础知识笔记
+
 ### RNN
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
