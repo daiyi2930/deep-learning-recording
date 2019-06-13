@@ -4,7 +4,7 @@
 
 ### Deep Learning
 
-**用Keras写**
+**用Keras写：**
 
 
 1.用Keras做Mnist手写数字的分类
