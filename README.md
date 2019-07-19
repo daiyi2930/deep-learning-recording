@@ -11,22 +11,16 @@
 
 2.Tensor基础知识笔记
 
+3.张量学习笔记（ipynb size问题似乎无法在线显示，请下载到本地使用jupyter notebook打开）
+
 ### RNN
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### CNN
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+CNN图像识别速记Note_0
 
 ### Keras
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 ### project
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-  gem install bundler jekyll
 
-  jekyll new my-awesome-site
-
-  cd my-awesome-site
-
-  bundle exec jekyll serve
